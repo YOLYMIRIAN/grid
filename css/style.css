@@ -1,0 +1,127 @@
+
+
+
+
+
+.negro1 .col-3{
+    background-color: black;
+}
+.negro1 .col-9{
+    background-color: black;
+    height: 164px;
+}
+.negro1 .col-9 ul{
+    list-style: none;
+}
+.negro1 .col-9 ul li a{
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 15px;
+    padding: 10px 10px; 
+    text-decoration: none;
+   
+}
+.negro2 .col-3 img{
+    float: left;
+    width: 220px;
+    border: 1px solid black;
+    margin left: 0;
+    margin-right: 0;
+}
+.negro3 .col-9 ul li{
+    width: 120px;
+    display: inline-block;
+    margin: 0 10px 10px 0;
+    vertical-align: top;
+        
+}
+.negro3 .col-9 ul li img{
+    width: 115px;
+    margin: 20px 0 0 0;
+}
+.negro4 .col-2 h3{
+    padding-top: 20px;
+    text-align:left;
+    width: 250px;
+    font-size: 25px;
+}
+.negro4 .col-2 hr{
+    width: 220px;
+    height: 4px;
+    background-color: darkgray;
+    margin: 15px 0 10px 0;
+   
+}
+.negro4 .col-2 a{
+    font-size:22px; 
+    margin: 5px 0 5px 0;
+    color: darkblue;
+    text-decoration: none;
+}
+.negro4 .col-2 p{
+    font-size: 15px;
+    width: 220px;
+    text-decoration: none;
+}
+.negro4 .col-2 li img{
+    width: 10%;
+    width: 10%;}
+
+
+.negro4 .col-2 li{
+ list-style: none;
+}
+p{
+    color: navy;
+    font-size: 14px;
+    text-align: center;
+
+}
+
+.pie{
+    background: gray;
+    display: inline-block;
+    margin: 25px 20px 20px 25px;
+    padding: 40px;
+        
+}
+.pie p{
+    color: azure;
+    font-size: 30px;
+}
+
+.pie li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+   color: azure;
+    font-size: 14px;
+    
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 15px;
+    padding: 10px 10px; 
+    text-decoration: none;
+    
+}
+
+#copyright {
+    font-size:0.9em;
+    text-align:center; 
+    color: gainsboro;
+}
+
+..episodios p {
+    text-align: center;
+    color: darkslateblue;
+    font-size: px;
+    font-weight:bold;
+    vertical-align: middle;
+    
+}
+.episodios {
+    background: #efefef;
+}
+
